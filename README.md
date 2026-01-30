@@ -48,7 +48,7 @@ Enabled quicker diagnosis and mitigation of performance degradation, reducing op
 
 ### Experimental Results (Summary)
 
-  | Nodes | Baseline Request Completion Time (ms) | Multimodal Request Completion Tim (ms) | Improvment (%)  |
+  | Nodes | Baseline Request Completion Time (ms) | Multimodal Request Completion Time (ms) | Improvment (%)  |
   |-------|---------------------------------------| ---------------------------------------| ----------------|
   | 3     |  120                                  | 95                                     | 20.83           |
   | 5     |  145                                  | 115                                    | 20.69           |
