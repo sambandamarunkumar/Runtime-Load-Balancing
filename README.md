@@ -45,13 +45,13 @@ Compatible with modern distributed and cloud-native platforms for both productio
 
 ### Experimental Results (Summary)
 
-  | Nodes | Baseline Request Completion Time (ms) | Multimodal Request Completion Time (ms) | Improvment (%)  |
-  |-------|---------------------------------------| ---------------------------------------| ----------------|
-  | 3     |  120                                  | 95                                     | 20.83           |
-  | 5     |  145                                  | 115                                    | 20.69           |
-  | 7     |  175                                  | 140                                    | 20.00           |
-  | 9     |  210                                  | 165                                    | 21.43           |
-  | 11    |  250                                  | 195                                    | 22.00           |
+  | Nodes | Static Allocation Throughput (tx/sec) | Dynamic Load Balanced Execution Throughput (tx/sec)| Improvment (%)  |
+  |-------|---------------------------------------| ---------------------------------------------------| ----------------|
+  | 3     |  420                                  | 510                                                | 21.43           |
+  | 5     |  560                                  | 680                                                | 21.43           |
+  | 7     |  610                                  | 740                                                | 21.31           |
+  | 9     |  590                                  | 720                                                | 22.03           |
+  | 11    |  540                                  | 690                                                | 27.78           |
 
 ### Citation
 Runtime Load Balancing Strategies for High Volume Transactional Workflows
