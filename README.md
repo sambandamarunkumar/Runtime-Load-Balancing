@@ -1,6 +1,6 @@
 
-# multimodal-observability
-**Multimodal Observability for Input Output Bottleneck Detection**
+# runtime-load-balanccing
+**Runtime Load Balancing Strategies for High Volume Transactional Workflows**
 
 ### Paper Information
 - **Author(s):** Arunkumar Sambandam
@@ -54,7 +54,7 @@ Compatible with modern distributed and cloud-native platforms for both productio
   | 11    |  250                                  | 195                                    | 22.00           |
 
 ### Citation
-Multimodal Observability for Input Output Bottleneck Detection
+Runtime Load Balancing Strategies for High Volume Transactional Workflows
 * Arunkumar Sambandam
 * ***********************************International Journal of Leading Research Publication 
 * ISSN E-ISSN: *****************************2582-8010
