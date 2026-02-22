@@ -4,11 +4,11 @@
 
 ### Paper Information
 - **Author(s):** Arunkumar Sambandam
-- **Published In:** *********************************************International Journal of Leading Research Publication (IJLRP)
-- **Publication Date:** ******Aug 2021
+- **Published In:** 6th International Conference on Advancing Knowledge from Multidisciplinary Perspectives in Education, Engineering & Technology (ICAKMPET)
+- **Publication Date:** Jan 24-25, 2026
 - **ISSN:** E-ISSN: **********2582-8010
 - **DOI:**
-- **Impact Factor:** *******9.56
+- **Impact Factor:** 
 
 ### Abstract
 This paper addresses the limitations of static workload allocation in high-volume transactional distributed systems, where runtime variability in transaction rates, data access patterns, and resource availability often leads to load imbalance, node congestion, increased coordination overhead, and higher commit latency. It examines how these inefficiencies degrade throughput and scalability as cluster size and transaction volume grow. To overcome these challenges, the study explores runtime load balancing strategies that dynamically redistribute transactions across nodes. By systematically comparing static and adaptive approaches under varying workloads and cluster configurations, the work evaluates their impact on performance. The findings aim to demonstrate that runtime adaptation can significantly improve throughput, scalability, and overall system efficiency in transactional environments.
@@ -61,9 +61,9 @@ Runtime Load Balancing Strategies for High Volume Transactional Workflows
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
-https://www.ijlrp.com*****************/ \
+
 **Author Contact** \
-**LinkedIn**: https://www.linkedin.com/**** | **Email**: arunkumar.sambandam@yahoo.com
+**LinkedIn**: linkedin.com/in/arunkumar-sambandam-9b769b6 | **Email**: arunkumar.sambandam@yahoo.com
 
 
 
